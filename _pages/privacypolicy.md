@@ -4,10 +4,31 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+**Ultimo aggiornamento**  
+Febbraio 2 2020
 
 # Privacy Policy
+
+## Dati personali raccolti per le seguenti finalità ed utilizzando i seguenti servizi:
+
+### Gestione dei pagamenti
+
+Pagamenti elaborati tramite Apple App Store e Pagamenti elaborati tramite Google Play Store
+Dati Personali: dati relativi al pagamento
+
+### Statistica
+
+*Google Analytics for Firebase*
+Dati Personali: acquisti in-app; aggiornamenti dell'Applicazione; apertura dell'Applicazione; Dati di utilizzo; durata della sessione; identificatori univoci di dispositivi per la pubblicità (Google Advertiser ID o identificatore IDFA, per esempio); informazioni sul dispositivo; numero di sessioni; numero di Utenti; primi avvii; regione geografica; sistemi operativi; Strumento di Tracciamento
+
+*Amplitude*
+Dati Personali: Dati di utilizzo; Strumento di Tracciamento
+
+### Servizi di piattaforma e hosting
+
+*Google Play Store e Apple App Store*
+Dati Personali: Dati di utilizzo
+
 Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
 **Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
