@@ -32,20 +32,20 @@ Dati Personali: Dati di utilizzo
 ## Informazioni di contatto
 
 *Titolare del Trattamento dei Dati*
-BLA BLA - VIA BLA, 00000 BLA
-BLA (BL)
+Paolo Donato - Via Cesare Studiati 4, 56127 
+Pisa (PI)
 
 *Indirizzo email del Titolare:*
-bla@bla.it
+lotteriascontriniapp@gmail.com
 
 # Policy Completa
 
 *Titolare del Trattamento dei Dati*
-BLA BLA - VIA BLA, 00000 BLA
-BLA (BL)
+Paolo Donato - VIA Cesare Studiati 4, 56127 
+Pisa (PI)
 
 *Indirizzo email del Titolare:*
-bla@bla.it
+lotteriascontriniapp@gmail.com
 
 ## Tipologie di Dati raccolti
 
