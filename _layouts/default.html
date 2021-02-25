@@ -106,7 +106,7 @@ function getParameter(parameterName) {
   var analytics = firebase.analytics();
 
   var source = getParameter('utm_source'); 
-  if source {
+  if ( source ) {
     analytics.logEvent('utm_source', { source: 'source'});
   }
 </script>
